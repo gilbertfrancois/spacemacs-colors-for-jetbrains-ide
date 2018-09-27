@@ -6,7 +6,7 @@ This color scheme is inspired by the beautiful Spacemacs dark color scheme (http
 
 
 
-The initial version has been created for **python** in pyCharm. Chance is great that other languages won't look good yet. But more languages will be added in the near future, like C++ (CLion), javascript, HTML and more.
+The initial version has been created for **python** in pyCharm. Chances are great that the color scheme won't look good yet for other languages. But do not be in despair! More languages will be added in the near future, like C++ (CLion), javascript, HTML and more.
 
 
 
